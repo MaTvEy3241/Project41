@@ -15,6 +15,12 @@ int main() {
 	cout << sizeof(s) << endl;
 	cout << sizeof(c) << endl;
 	cout << sizeof(b) << endl;
-	//
+	//pointer
+	int* pn;
+	double* pd;
+	float* pf;
+	string* ps;
+	char* pc;
+	bool* pb;
 	return 0;
 }
